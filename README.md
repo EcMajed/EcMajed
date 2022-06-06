@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Majed
 - 👀 I’m interested in Data Analyst, and Art of Visualization
-- 🌱 I’m currently learning Google Data Analytics Professional Certificate
+- 🌱 Master Degree of Economics 
+-    Master SQL for Data Scientist
+-    Google Data Analytics Professional Certificate
+-    Python
 - 💞️ I’m looking to collaborate on RStudio, GitHub Reprository, Statistical Analysis, Visualization
 - 📫 How to reach me ec.majed88@gmail.com, 
 
